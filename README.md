@@ -1,9 +1,14 @@
 # SATySFi::Rails
-
 SATySFi template for Rails.
 
 ## Usage
-How to use my plugin.
+Under the `app/views/**/*`, create a template like below as `*.pdf.saty`
+
+```
+@require: standalone
+let-block ctx +hi = line-break true true ctx (read-inline ctx {hi}) in
+standalone '<+hi;>
+```
 
 ## Installation
 Add this line to your application's Gemfile:
