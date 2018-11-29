@@ -1,4 +1,4 @@
-module Satysfi
+module SATySFi
   module Rails
     class Railtie < ::Rails::Railtie
     end

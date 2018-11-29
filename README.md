@@ -1,5 +1,6 @@
-# Satysfi::Rails
-Short description and motivation.
+# SATySFi::Rails
+
+SATySFi template for Rails.
 
 ## Usage
 How to use my plugin.
@@ -8,7 +9,7 @@ How to use my plugin.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'satysfi-rails'
+gem 'SATySFi-rails'
 ```
 
 And then execute:
@@ -18,7 +19,7 @@ $ bundle
 
 Or install it yourself as:
 ```bash
-$ gem install satysfi-rails
+$ gem install SATySFi-rails
 ```
 
 ## Contributing

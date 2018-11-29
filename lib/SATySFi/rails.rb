@@ -1,6 +1,6 @@
-require "satysfi/rails/railtie"
+require "SATySFi/rails/railtie"
 
-module Satysfi
+module SATySFi
   module Rails
     # Your code goes here...
   end
